@@ -1,0 +1,10 @@
+D:\XG\study\c#\CSharpHomework\homework1\multi2\multi2\multi2\bin\Debug\multi2.exe.config
+D:\XG\study\c#\CSharpHomework\homework1\multi2\multi2\multi2\bin\Debug\multi2.exe
+D:\XG\study\c#\CSharpHomework\homework1\multi2\multi2\multi2\bin\Debug\multi2.pdb
+D:\XG\study\c#\CSharpHomework\homework1\multi2\multi2\multi2\obj\Debug\multi2.csprojAssemblyReference.cache
+D:\XG\study\c#\CSharpHomework\homework1\multi2\multi2\multi2\obj\Debug\multi2.Form1.resources
+D:\XG\study\c#\CSharpHomework\homework1\multi2\multi2\multi2\obj\Debug\multi2.Properties.Resources.resources
+D:\XG\study\c#\CSharpHomework\homework1\multi2\multi2\multi2\obj\Debug\multi2.csproj.GenerateResource.cache
+D:\XG\study\c#\CSharpHomework\homework1\multi2\multi2\multi2\obj\Debug\multi2.csproj.CoreCompileInputs.cache
+D:\XG\study\c#\CSharpHomework\homework1\multi2\multi2\multi2\obj\Debug\multi2.exe
+D:\XG\study\c#\CSharpHomework\homework1\multi2\multi2\multi2\obj\Debug\multi2.pdb

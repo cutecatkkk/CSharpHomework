@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multi2", "multi2\multi2.csproj", "{21B15161-1371-4373-A884-EEF7422E5EAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21B15161-1371-4373-A884-EEF7422E5EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B15161-1371-4373-A884-EEF7422E5EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B15161-1371-4373-A884-EEF7422E5EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B15161-1371-4373-A884-EEF7422E5EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A172CFD0-27FE-4B7B-A22D-B112BAA76235}
+	EndGlobalSection
+EndGlobal

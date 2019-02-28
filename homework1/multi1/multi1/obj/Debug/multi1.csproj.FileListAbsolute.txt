@@ -1,0 +1,7 @@
+D:\XG\study\c#\CSharpHomework\homework1\multi1\multi1\multi1\bin\Debug\multi1.exe.config
+D:\XG\study\c#\CSharpHomework\homework1\multi1\multi1\multi1\bin\Debug\multi1.exe
+D:\XG\study\c#\CSharpHomework\homework1\multi1\multi1\multi1\bin\Debug\multi1.pdb
+D:\XG\study\c#\CSharpHomework\homework1\multi1\multi1\multi1\obj\Debug\multi1.csprojAssemblyReference.cache
+D:\XG\study\c#\CSharpHomework\homework1\multi1\multi1\multi1\obj\Debug\multi1.csproj.CoreCompileInputs.cache
+D:\XG\study\c#\CSharpHomework\homework1\multi1\multi1\multi1\obj\Debug\multi1.exe
+D:\XG\study\c#\CSharpHomework\homework1\multi1\multi1\multi1\obj\Debug\multi1.pdb
