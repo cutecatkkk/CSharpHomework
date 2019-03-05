@@ -1,0 +1,7 @@
+D:\XG\study\c#\CSharpHomework\homework2\2.6\bin\Debug\2.6.exe.config
+D:\XG\study\c#\CSharpHomework\homework2\2.6\bin\Debug\2.6.exe
+D:\XG\study\c#\CSharpHomework\homework2\2.6\bin\Debug\2.6.pdb
+D:\XG\study\c#\CSharpHomework\homework2\2.6\obj\Debug\2.6.csprojAssemblyReference.cache
+D:\XG\study\c#\CSharpHomework\homework2\2.6\obj\Debug\2.6.csproj.CoreCompileInputs.cache
+D:\XG\study\c#\CSharpHomework\homework2\2.6\obj\Debug\2.6.exe
+D:\XG\study\c#\CSharpHomework\homework2\2.6\obj\Debug\2.6.pdb

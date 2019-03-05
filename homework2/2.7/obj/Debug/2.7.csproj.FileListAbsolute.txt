@@ -1,0 +1,6 @@
+D:\XG\study\c#\CSharpHomework\homework2\2.7\bin\Debug\2.7.exe.config
+D:\XG\study\c#\CSharpHomework\homework2\2.7\bin\Debug\2.7.exe
+D:\XG\study\c#\CSharpHomework\homework2\2.7\bin\Debug\2.7.pdb
+D:\XG\study\c#\CSharpHomework\homework2\2.7\obj\Debug\2.7.csproj.CoreCompileInputs.cache
+D:\XG\study\c#\CSharpHomework\homework2\2.7\obj\Debug\2.7.exe
+D:\XG\study\c#\CSharpHomework\homework2\2.7\obj\Debug\2.7.pdb
