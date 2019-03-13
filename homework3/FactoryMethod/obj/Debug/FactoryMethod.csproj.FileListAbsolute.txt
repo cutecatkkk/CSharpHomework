@@ -1,0 +1,7 @@
+D:\XG\study\c#\CSharpHomework\homework3\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+D:\XG\study\c#\CSharpHomework\homework3\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\XG\study\c#\CSharpHomework\homework3\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\XG\study\c#\CSharpHomework\homework3\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\XG\study\c#\CSharpHomework\homework3\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\XG\study\c#\CSharpHomework\homework3\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\XG\study\c#\CSharpHomework\homework3\FactoryMethod\obj\Debug\FactoryMethod.pdb
