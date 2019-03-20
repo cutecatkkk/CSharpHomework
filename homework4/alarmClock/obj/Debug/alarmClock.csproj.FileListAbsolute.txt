@@ -1,0 +1,7 @@
+D:\XG\study\c#\CSharpHomework\homework4\alarmClock\bin\Debug\alarmClock.exe.config
+D:\XG\study\c#\CSharpHomework\homework4\alarmClock\bin\Debug\alarmClock.exe
+D:\XG\study\c#\CSharpHomework\homework4\alarmClock\bin\Debug\alarmClock.pdb
+D:\XG\study\c#\CSharpHomework\homework4\alarmClock\obj\Debug\alarmClock.csprojAssemblyReference.cache
+D:\XG\study\c#\CSharpHomework\homework4\alarmClock\obj\Debug\alarmClock.csproj.CoreCompileInputs.cache
+D:\XG\study\c#\CSharpHomework\homework4\alarmClock\obj\Debug\alarmClock.exe
+D:\XG\study\c#\CSharpHomework\homework4\alarmClock\obj\Debug\alarmClock.pdb
