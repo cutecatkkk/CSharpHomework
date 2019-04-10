@@ -1,0 +1,14 @@
+D:\XG\study\c#\Homework4\ordertest\obj\Debug\ordertest.csprojAssemblyReference.cache
+D:\XG\study\c#\Homework4\ordertest\obj\Debug\ordertest.csproj.CoreCompileInputs.cache
+D:\XG\study\c#\Homework4\ordertest\bin\Debug\ordertest.exe.config
+D:\XG\study\c#\Homework4\ordertest\bin\Debug\ordertest.exe
+D:\XG\study\c#\Homework4\ordertest\bin\Debug\ordertest.pdb
+D:\XG\study\c#\Homework4\ordertest\obj\Debug\ordertest.exe
+D:\XG\study\c#\Homework4\ordertest\obj\Debug\ordertest.pdb
+D:\XG\study\c#\CSharpHomework\homework5\ordertest\bin\Debug\ordertest.exe.config
+D:\XG\study\c#\CSharpHomework\homework5\ordertest\bin\Debug\ordertest.exe
+D:\XG\study\c#\CSharpHomework\homework5\ordertest\bin\Debug\ordertest.pdb
+D:\XG\study\c#\CSharpHomework\homework5\ordertest\obj\Debug\ordertest.csprojAssemblyReference.cache
+D:\XG\study\c#\CSharpHomework\homework5\ordertest\obj\Debug\ordertest.csproj.CoreCompileInputs.cache
+D:\XG\study\c#\CSharpHomework\homework5\ordertest\obj\Debug\ordertest.exe
+D:\XG\study\c#\CSharpHomework\homework5\ordertest\obj\Debug\ordertest.pdb
