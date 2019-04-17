@@ -1,0 +1,10 @@
+D:\XG\study\c#\CSharpHomework\homework7\CayleyTree\CayleyTree\bin\Debug\CayleyTree.exe.config
+D:\XG\study\c#\CSharpHomework\homework7\CayleyTree\CayleyTree\bin\Debug\CayleyTree.exe
+D:\XG\study\c#\CSharpHomework\homework7\CayleyTree\CayleyTree\bin\Debug\CayleyTree.pdb
+D:\XG\study\c#\CSharpHomework\homework7\CayleyTree\CayleyTree\obj\Debug\CayleyTree.csprojAssemblyReference.cache
+D:\XG\study\c#\CSharpHomework\homework7\CayleyTree\CayleyTree\obj\Debug\CayleyTree.Form1.resources
+D:\XG\study\c#\CSharpHomework\homework7\CayleyTree\CayleyTree\obj\Debug\CayleyTree.Properties.Resources.resources
+D:\XG\study\c#\CSharpHomework\homework7\CayleyTree\CayleyTree\obj\Debug\CayleyTree.csproj.GenerateResource.cache
+D:\XG\study\c#\CSharpHomework\homework7\CayleyTree\CayleyTree\obj\Debug\CayleyTree.csproj.CoreCompileInputs.cache
+D:\XG\study\c#\CSharpHomework\homework7\CayleyTree\CayleyTree\obj\Debug\CayleyTree.exe
+D:\XG\study\c#\CSharpHomework\homework7\CayleyTree\CayleyTree\obj\Debug\CayleyTree.pdb
