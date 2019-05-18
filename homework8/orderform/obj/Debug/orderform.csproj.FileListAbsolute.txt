@@ -1,0 +1,15 @@
+D:\XG\study\c#\CSharpHomework\homework8\orderform\obj\Debug\orderform.csprojAssemblyReference.cache
+D:\XG\study\c#\CSharpHomework\homework8\orderform\obj\Debug\orderform.Properties.Resources.resources
+D:\XG\study\c#\CSharpHomework\homework8\orderform\obj\Debug\orderform.csproj.GenerateResource.cache
+D:\XG\study\c#\CSharpHomework\homework8\orderform\obj\Debug\orderform.csproj.CoreCompileInputs.cache
+D:\XG\study\c#\CSharpHomework\homework8\orderform\bin\Debug\orderform.exe.config
+D:\XG\study\c#\CSharpHomework\homework8\orderform\bin\Debug\orderform.exe
+D:\XG\study\c#\CSharpHomework\homework8\orderform\bin\Debug\orderform.pdb
+D:\XG\study\c#\CSharpHomework\homework8\orderform\bin\Debug\ordertest.exe
+D:\XG\study\c#\CSharpHomework\homework8\orderform\bin\Debug\ordertest.pdb
+D:\XG\study\c#\CSharpHomework\homework8\orderform\bin\Debug\ordertest.exe.config
+D:\XG\study\c#\CSharpHomework\homework8\orderform\obj\Debug\orderform.csproj.CopyComplete
+D:\XG\study\c#\CSharpHomework\homework8\orderform\obj\Debug\orderform.exe
+D:\XG\study\c#\CSharpHomework\homework8\orderform\obj\Debug\orderform.pdb
+D:\XG\study\c#\CSharpHomework\homework8\orderform\obj\Debug\OrderForm.FormEdit.resources
+D:\XG\study\c#\CSharpHomework\homework8\orderform\obj\Debug\OrderForm.FormMain.resources

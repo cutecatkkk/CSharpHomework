@@ -1,0 +1,14 @@
+/Users/jiaxy/workspace/OrderApi/bin/Debug/netcoreapp2.2/OrderApi.deps.json
+/Users/jiaxy/workspace/OrderApi/bin/Debug/netcoreapp2.2/OrderApi.runtimeconfig.json
+/Users/jiaxy/workspace/OrderApi/bin/Debug/netcoreapp2.2/OrderApi.runtimeconfig.dev.json
+/Users/jiaxy/workspace/OrderApi/bin/Debug/netcoreapp2.2/OrderApi.dll
+/Users/jiaxy/workspace/OrderApi/bin/Debug/netcoreapp2.2/OrderApi.pdb
+/Users/jiaxy/workspace/OrderApi/obj/Debug/netcoreapp2.2/OrderApi.csprojAssemblyReference.cache
+/Users/jiaxy/workspace/OrderApi/obj/Debug/netcoreapp2.2/OrderApi.csproj.CoreCompileInputs.cache
+/Users/jiaxy/workspace/OrderApi/obj/Debug/netcoreapp2.2/OrderApi.RazorAssemblyInfo.cache
+/Users/jiaxy/workspace/OrderApi/obj/Debug/netcoreapp2.2/OrderApi.RazorAssemblyInfo.cs
+/Users/jiaxy/workspace/OrderApi/obj/Debug/netcoreapp2.2/OrderApi.AssemblyInfoInputs.cache
+/Users/jiaxy/workspace/OrderApi/obj/Debug/netcoreapp2.2/OrderApi.AssemblyInfo.cs
+/Users/jiaxy/workspace/OrderApi/obj/Debug/netcoreapp2.2/OrderApi.RazorTargetAssemblyInfo.cache
+/Users/jiaxy/workspace/OrderApi/obj/Debug/netcoreapp2.2/OrderApi.dll
+/Users/jiaxy/workspace/OrderApi/obj/Debug/netcoreapp2.2/OrderApi.pdb
